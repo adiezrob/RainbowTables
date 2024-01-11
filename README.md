@@ -1,4 +1,4 @@
-#Este repositorio contiene recursos que he creado para el trabajo opcional de SGSSI.
+# Este repositorio contiene recursos que he creado para el trabajo opcional de SGSSI.
 
 ## Ejercicio 1
 El fichero [ejercicio1.py](ejercicio1.py) es la solución al primer ejercicio que propongo en el informe.
